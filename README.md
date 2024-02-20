@@ -1,3 +1,1 @@
-## Demo
-
-Insert gif or link to demo
+# My Udemy Website Development Summary from Dr. Angela Yu
